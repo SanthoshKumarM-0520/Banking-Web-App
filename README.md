@@ -14,7 +14,7 @@ RESTful API to simulate simple banking operations.
 1. Checkout the project from GitHub
 
 ```
-git clone https://github.com/sbathina/BankApp
+git clone https://github.com/SanthoshKumarM-0520/Banking-Web-App
 
 ```
 2. Enable Lombok support on your IDE
@@ -64,7 +64,7 @@ spring-security-test
 Please find the Rest API documentation in the below url
 
 ```
-http://localhost:8989/bank-api/swagger-ui.html
+http://localhost:8000/bank-api/swagger-ui.html
 
 ```
 
@@ -74,7 +74,7 @@ Make sure to use jdbc:h2:mem:testdb as your jdbc url. If you intend to you use c
 define datasource properties in application.yml
 
 ```
-http://localhost:8989/bank-api/h2-console/
+http://localhost:8000/bank-api/h2-console/
 
 ```
 
@@ -87,5 +87,5 @@ http://localhost:8989/bank-api/h2-console/
 
 ## Authors
 
-* **Shyam Bathina**
+* **Santhosh Kumar**
 
