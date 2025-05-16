@@ -1,4 +1,4 @@
-# Banking Application using Java8, Spring Boot, Spring Security and H2 DB
+# Banking Application using Java and Spring Boot
 
 RESTful API to simulate simple banking operations. 
 
