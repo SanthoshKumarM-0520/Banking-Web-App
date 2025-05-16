@@ -33,13 +33,13 @@ https://projectlombok.org/setup/eclipse
 - If using STS, Run As Spring Boot App
 
 ```
-4. Default port for the api is 8989
+4. Default port for the api is 8000
 
 
 ### Prerequisites
 
-* Java 8
-* Spring Tool Suite 4 or similar IDE
+* Java
+* Spring Boot
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 ### Maven Dependencies
